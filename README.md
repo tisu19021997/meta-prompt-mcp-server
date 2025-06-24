@@ -11,7 +11,7 @@ The magic is that this entire collaborative workflow is simulated within a *sing
 
 ## Demo
 
-*(Insert video demo here)*
+[![Demo Video](/public/demo.png)](https://youtu.be/KATOgaj2upI)
 
 
 ## Getting Started
