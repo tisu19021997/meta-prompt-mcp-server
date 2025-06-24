@@ -9,10 +9,13 @@ At its core, this MCP transforms a standard Language Model (LM) into a dynamic, 
 
 The magic is that this entire collaborative workflow is simulated within a *single LM*. The Conductor and Experts are different modes of operation guided by a sophisticated system prompt, allowing the model to reason, act, and self-critique its way to a more robust and accurate solution. It's like having an automated team of AI specialists at your disposal, all powered by one model.
 
+<a href="https://glama.ai/mcp/servers/@tisu19021997/meta-prompt-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@tisu19021997/meta-prompt-mcp-server/badge" alt="Meta Prompt Server MCP server" />
+</a>
+
 ## Demo
 
 [![Demo Video](/public/demo.png)](https://youtu.be/KATOgaj2upI)
-
 
 ## Getting Started
 
