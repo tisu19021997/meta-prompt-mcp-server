@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tisu19021997-meta-prompt-mcp-server-badge.png)](https://mseep.ai/app/tisu19021997-meta-prompt-mcp-server)
+
 # Meta Prompt MCP
 
 This project is an implementation of the **Meta-Prompting** technique from the paper "[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding](https://arxiv.org/abs/2401.12954)".
